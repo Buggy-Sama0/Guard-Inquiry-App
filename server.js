@@ -108,11 +108,13 @@ app.get('/show', (req, res) => {
 });
 
 
+
+// no diddy
 app.listen(process.env.PORT || 2030, ()=> {
 	console.log(`Server running at http://localhost:${2030}`);
 });
 
-``
+
 	
 
 
